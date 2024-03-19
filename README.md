@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+  
+  ![sss](https://github.com/n01r1r/n01r1r/assets/35805725/fd2f98c9-7c5a-4a81-9f8e-119b7e3e329a)
+
+  [![Stats](https://github-readme-stats.vercel.app/api?username=n01r1r&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+
 
 <!--
 **n01r1r/n01r1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
