@@ -1,8 +1,6 @@
 <div align="center">
   
-  [![sss](https://github.com/user-attachments/assets/632ddee7-1ff2-4b60-abdf-f476961edafd)]
-
-  [![Stats](https://github-readme-stats.vercel.app/api?username=n01r1r&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  ![sss](https://github.com/user-attachments/assets/632ddee7-1ff2-4b60-abdf-f476961edafd)
 
 
 </div>
