@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![sss](https://github.com/n01r1r/n01r1r/assets/35805725/fd2f98c9-7c5a-4a81-9f8e-119b7e3e329a)
+  [![sss](https://github.com/user-attachments/assets/632ddee7-1ff2-4b60-abdf-f476961edafd)]
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=n01r1r&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
